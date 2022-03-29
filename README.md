@@ -16,7 +16,7 @@ Original Result: ![This is an image]( https://github.com/BMoreland20/School-Dist
 •	How were scores affected:
 o	The Math and reading scores by grade were only affected in the Thomas section where it shows NaN in its data spot. (See photos)
 Math: ![This is an image](https://github.com/BMoreland20/School-District-Analysis/blob/main/Resources/Challenge_Math_by_Grade_Results.png)
-Reading: ![This is an image] (https://github.com/BMoreland20/School-District-Analysis/blob/main/Resources/Challenge_Reading_by_Grade_Results.png)
+Reading: ![This is an image](https://github.com/BMoreland20/School-District-Analysis/blob/main/Resources/Challenge_Reading_by_Grade_Results.png)
 o	Due to the change in number of students that counted towards the total for Thomas High School; Thomas High went from tier 3 `$631-645` to tier 4 `$646-675`.  To clarify their per student spending went from $638 per student to $888.53.  This change caused the `$631-645` range to lose in the average and percentage scores when looking at all the schools combined.  While all of the others remained the same.  (See photos)
 Challenge: ![This is an image](https://github.com/BMoreland20/School-District-Analysis/blob/main/Resources/Challenge_Spending_Results.png)
 Original: ![This is an image](https://github.com/BMoreland20/School-District-Analysis/blob/main/Resources/Original_Spending_Results.png)
